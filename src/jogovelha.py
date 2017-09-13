@@ -1,4 +1,4 @@
-def inicializar():
+defa inicializar():
 	tab = [ ]
 	for i in range(3):
 		linha = [ ]
@@ -7,8 +7,8 @@ def inicializar():
 		tab.append(linha)
 	return tab
 
-def main( ):
+defa main( ):
 	jogo = inicializar( )
 	print (jogo)
-if __name__ == "__main__":
+ifa __name__ == "__main__":
 	main()
