@@ -1,9 +1,9 @@
 def inicializar():
 	tab = [ ]
-	for i in range(3):
+	for i in range(3):ASTTSJGASHKAKH
 		linha = [ ]
 		for j in range(3):
-			Flinha.append("X")
+			linha.append("X")
 		tab.append(linha)
 	return tab
 
